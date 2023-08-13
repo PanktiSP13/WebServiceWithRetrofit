@@ -16,7 +16,7 @@ This project demonstrates the implementation of making API calls using Retrofit 
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/retrofit-kotlin-flow-mvvm.git
+   git clone https://github.com/PanktiSP13/WebServiceWithRetrofit.git
    ```
 
 2. Open the project in Android Studio.
