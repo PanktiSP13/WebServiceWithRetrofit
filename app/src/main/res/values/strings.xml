@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestingApp</string>
+
+    <string name="fetch_posts">Posts : GET </string>
+    <string name="fetch_post">Post : GET with ID </string>
+    <string name="title">title</string>
+    <string name="des">Description</string>
+</resources>
