@@ -29,6 +29,12 @@ The project demonstrates a sample app that utilizes Retrofit, Kotlin Flow, MVVM 
 
 Feel free to modify and extend the project according to your needs. You can integrate additional features, add more API endpoints, or experiment with different UI components.
 
+## Screenshot
+
+<img src="https://github.com/PanktiSP13/WebServiceWithRetrofit/assets/58383702/351d05e7-4e9b-4f46-a50c-fc45837322cd" width="200">
+<img src="https://github.com/PanktiSP13/WebServiceWithRetrofit/assets/58383702/7e0b6168-9041-4cf2-9059-a9efd3bac2c0" width="200">
+
+
 ## Contributions
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request. Make sure to follow best coding practices and maintain a clean commit history.
